@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Limitless",
+  "base_artist": "棗いつき",
+  "createdAt": "2026-01-14T08:43:29.590316Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Limitless",
+      "artist": "Amaranthe",
+      "has_synced": true,
+      "path": "select/01_Limitless_Amaranthe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Limitless",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/02_Limitless_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Limitless",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/03_Limitless_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Limitless",
+      "artist": "Logic",
+      "has_synced": true,
+      "path": "select/04_Limitless_Logic.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Limitless",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/05_Limitless_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Am (Limitless Keith Lee Theme)",
+      "artist": "All Elite Wrestling",
+      "has_synced": false,
+      "path": "select/06_I_Am_(Limitless_Keith_Lee_Theme)_All_Elite_Wrestling.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I AM- (\"Limitless\" Keith Lee AEW Theme)",
+      "artist": "All Elite Wrestling",
+      "has_synced": false,
+      "path": "select/07_I_AM-_(_Limitless__Keith_Lee_AEW_Theme)_All_Elite_Wrestling.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Limitless",
+      "artist": "NCT 127",
+      "has_synced": true,
+      "path": "select/08_Limitless_NCT_127.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Limitless (Japanese Ver.)",
+      "artist": "NCT 127",
+      "has_synced": true,
+      "path": "select/09_Limitless_(Japanese_Ver.)_NCT_127.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Limitless",
+      "artist": "Crown the Empire",
+      "has_synced": false,
+      "path": "select/10_Limitless_Crown_the_Empire.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Limitless",
+      "artist": "Black Tape for a Blue Girl",
+      "has_synced": true,
+      "path": "select/11_Limitless_Black_Tape_for_a_Blue_Girl.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Limitless",
+      "artist": "Volumes",
+      "has_synced": false,
+      "path": "select/12_Limitless_Volumes.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Limitless",
+      "artist": "From Atlantis",
+      "has_synced": false,
+      "path": "select/13_Limitless_From_Atlantis.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Limitless",
+      "artist": "Planetshakers",
+      "has_synced": false,
+      "path": "select/14_Limitless_Planetshakers.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Limitless",
+      "artist": "ATEEZ",
+      "has_synced": true,
+      "path": "select/15_Limitless_ATEEZ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Limitless",
+      "artist": "棗いつき",
+      "has_synced": false,
+      "path": "select/pl_01_Limitless_棗いつき.txt"
+    }
+  ]
+}
